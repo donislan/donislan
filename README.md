@@ -1,8 +1,8 @@
 # Olá, tudo bem? 
-## Eu me chamo Adonislan, mas pode chamar de Adonis 🫡
+## Eu me chamo Adonislan, mas pode chamar de Adonis 🖖🏾
 
 ### Acesse meu Portfólio Web: 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portfolio-profissional-drab.vercel.app/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-profissional-drab.vercel.app/index.html)
 
 ### Se conecte comigo nas minhas redes: 
 
@@ -23,4 +23,9 @@
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-#### Apenas um homem buscando o sucesso, através da tecnologia, que prometeu a si mesmo
+### Work Space:
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+#### Apenas um homem buscando o sucesso, através da tecnologia, que prometeu a si mesmo 🧑🏾‍💻
