@@ -8,8 +8,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonislan-silva/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/donislan/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5582999203503&text=Ol%C3%A1%2C+tudo+bem%3F)
 
-![Donislan's GitHub stats](https://github-readme-stats.vercel.app/api?username=donislan&show_icons=true&theme=dark)
-
 ### Hard Skills:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,3 +27,5 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 #### Apenas um homem buscando o sucesso, através da tecnologia, que prometeu a si mesmo 🧑🏾‍💻
+
+![Donislan's GitHub stats](https://github-readme-stats.vercel.app/api?username=donislan&show_icons=true&theme=dark)
