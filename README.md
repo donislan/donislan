@@ -23,4 +23,4 @@
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-#### Apenas um homem buscando o sucesso que se prometeu através da tecnologia
+#### Apenas um homem buscando o sucesso, através da tecnologia, que prometeu a si mesmo
